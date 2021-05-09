@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151392035618",
+    "project_id": "mydigimind-8ba88",
+    "storage_bucket": "mydigimind-8ba88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151392035618:android:ad61ea6f18b7ffac533b7b",
+        "android_client_info": {
+          "package_name": "landavazo.maria.mydigimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151392035618-mpg5kmfp3rskms7o3ocob01qjkmp5l24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9KNA-ADb1DvpVCU8UgdonAShwCQeSquk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151392035618-mpg5kmfp3rskms7o3ocob01qjkmp5l24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
